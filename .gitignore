@@ -1,0 +1,46 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Profiler dumps (usually not needed on GitHub)
+[Pp]rofiler[Cc]aptures/
+UpgradeLog.htm
+
+# Cache and IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.unityproj
+*.tmp
+
+# Addressables / asset bundles / streaming build cache (optional, usually generated)
+**/[Aa]sset[Bb]undles*/
+**/[Aa]ddressables*/
+
+# OS files
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# Crash reports
+sysinfo.txt
+
+# Do not ignore: important Unity folders you want tracked
+![Aa]ssets/
+![Pp]ackages/
+![Pp]roject[Ss]ettings/
